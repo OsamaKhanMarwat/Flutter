@@ -1,6 +1,6 @@
-## my_card
+##my_card
 
-A new Flutter project.
+This is my card in flutter which contains my email and phone number.
 
 ## Getting Started
 
